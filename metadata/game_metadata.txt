@@ -1,0 +1,5 @@
+devid=gwahl
+devtitle=gwahl
+gameid=get-the-birdies
+gametitle=Get The Birdies
+version=0.2
